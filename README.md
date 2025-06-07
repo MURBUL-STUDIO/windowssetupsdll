@@ -1,3 +1,2 @@
 # windowssetupsdll
-Its safe dll file for Mwe.exe!!
-S.W.64
+Its safe dll file for S.W.64
